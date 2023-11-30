@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ramch/OneDrive/Documents/NetBeansProjects/BlogApp/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/ramch/OneDrive/Documents/NetBeansProjects/BlogApp/src/java/com/ram/blog/helper/ConnectionProvider.java</file>
+            <file>file:/C:/Users/ramch/OneDrive/Documents/NetBeansProjects/BlogApp/src/java/com/ram/blog/helper/Helper.java</file>
+            <file>file:/C:/Users/ramch/OneDrive/Documents/NetBeansProjects/BlogApp/src/java/com/ram/blog/servlets/AddPostServlet.java</file>
+            <file>file:/C:/Users/ramch/OneDrive/Documents/NetBeansProjects/BlogApp/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/ramch/OneDrive/Documents/NetBeansProjects/BlogApp/web/index.jsp</file>
+        </group>
+    </open-files>
+</project-private>
